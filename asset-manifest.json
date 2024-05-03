@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_school/static/css/main.007f1b78.css",
+    "main.js": "/React_school/static/js/main.e2aee67e.js",
+    "static/js/592.7985bfe9.chunk.js": "/React_school/static/js/592.7985bfe9.chunk.js",
+    "static/media/overlay.jpg": "/React_school/static/media/overlay.98f1b11f9a77bd912a85.jpg",
+    "static/media/building-3.jpg": "/React_school/static/media/building-3.585559b83aa8ddb52fc5.jpg",
+    "index.html": "/React_school/index.html",
+    "main.007f1b78.css.map": "/React_school/static/css/main.007f1b78.css.map",
+    "main.e2aee67e.js.map": "/React_school/static/js/main.e2aee67e.js.map",
+    "592.7985bfe9.chunk.js.map": "/React_school/static/js/592.7985bfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007f1b78.css",
+    "static/js/main.e2aee67e.js"
+  ]
+}
