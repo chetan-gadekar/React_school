@@ -16,7 +16,7 @@ export default function Facilities() {
          <section className="firstSec">
             <section className="subSec">
                <section className="imgSec">
-                  <img src="img/students in library.jpg" alt="Picture of our Library"/>
+                  <image src="img/students in library.jpg" alt="Picture of our Library"/>
                </section>
 
                <h3>World Class Library</h3>
@@ -30,7 +30,7 @@ export default function Facilities() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <img src="img/students playing.jpg" alt="Picture of our Playground"/>
+                  <image src="img/students playing.jpg" alt="Picture of our Playground"/>
                </section>
 
                <h3>Largest Play Ground</h3>
@@ -44,7 +44,7 @@ export default function Facilities() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <img src="img/students eating.jpg" alt="Picture of our Cafeteria"/>
+                  <image src="img/students eating.jpg" alt="Picture of our Cafeteria"/>
                </section>
 
                <h3>Cafeteria Oasis</h3>

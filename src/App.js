@@ -1,9 +1,10 @@
 import React from 'react'
-import NavBar from './component/NavBar'
+
 import Course from './component/Course'
 import Campus from './component/Campus'
 import Facilities from './component/Facilities'
 import Student from './component/Student'
+import NavBar from './component/NavBar'
 
 export default function App() {
   return (

@@ -18,7 +18,7 @@ export default function Student() {
 
             <section className="subSec" id="firstComment">
                <section className="imgSec">
-                  <img src="img/profile-1.jpg" alt="Student's Picture"/>
+                  <image src="img/profile-1.jpg" alt="Student's Picture"/>
                </section>
 
                <section className="quoteSec">
@@ -42,7 +42,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <img src="img/profile-2.jpg" alt="Student's Picture"/>
+                  <image src="img/profile-2.jpg" alt="Student's Picture"/>
                </section>
 
                <section className="quoteSec">
@@ -66,7 +66,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <img src="img/profile-3.jpg" alt="Student's Picture"/>
+                  <image src="img/profile-3.jpg" alt="Student's Picture"/>
                </section>
 
                <section className="quoteSec">
@@ -90,7 +90,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <img src="img/profile-1.jpg" alt="Student's Picture"/>
+                  <image src="img/profile-1.jpg" alt="Student's Picture"/>
                </section>
 
                <section className="quoteSec">
@@ -114,7 +114,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <img src="img/profile-2.jpg" alt="Student's Picture"/>
+                  <image src="img/profile-2.jpg" alt="Student's Picture"/>
                </section>
 
                <section className="quoteSec">
@@ -141,10 +141,10 @@ export default function Student() {
 
 
       <div className="scroll-container">
-         <img src="img/building-1.jpg" alt="Cinque Terre" width="600" height="400"/>
-         <img src="img/building-2.jpg" alt="Forest" width="600" height="400"/>
-         <img src="img/building-3.jpg" alt="Northern Lights" width="600" height="400"/>
-         <img src="img/overlay.jpg" alt="Mountains" width="600" height="400"/>
+         <image src="img/building-1.jpg" alt="Cinque Terre" width="600" height="400"/>
+         <image src="img/building-2.jpg" alt="Forest" width="600" height="400"/>
+         <image src="img/building-3.jpg" alt="Northern Lights" width="600" height="400"/>
+         <image src="img/overlay.jpg" alt="Mountains" width="600" height="400"/>
      </div>
 
   
@@ -164,19 +164,19 @@ export default function Student() {
          </section>
 
          <section className="firstSec">
-            <a href="#">
+            <a href="/">
                <i className="fa-brands fa-facebook"></i>
             </a>
 
-            <a href="#">
+            <a href="/">
                <i className="fa-brands fa-instagram"></i>
             </a>
 
-            <a href="#">
+            <a href="/">
                <i className="fa-brands fa-youtube"></i>
             </a>
 
-            <a href="#">
+            <a href="/">
                <i className="fa-brands fa-twitter"></i>
             </a>
          </section>

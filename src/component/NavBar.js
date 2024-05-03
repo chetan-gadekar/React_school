@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -23,11 +23,11 @@ export default function NavBar() {
                <Navbar.Toggle aria-controls="basic-navbar-nav" />
                <Navbar.Collapse id="basic-navbar-nav">
                   <Nav className="me-auto">
-                     <Nav.Link href="#home">Home</Nav.Link>
-                     <Nav.Link href="#link">Registration</Nav.Link>
-                     <Nav.Link href="#link">Academics</Nav.Link>
-                     <Nav.Link href="#link">Contact Us</Nav.Link>
-                     <Nav.Link href="#link">About Us</Nav.Link>
+                     <Nav.Link href="/">Home</Nav.Link>
+                     <Nav.Link href="/">Registration</Nav.Link>
+                     <Nav.Link href="/">Academics</Nav.Link>
+                     <Nav.Link href="/">Contact Us</Nav.Link>
+                     <Nav.Link href="/">About Us</Nav.Link>
                   </Nav>
                </Navbar.Collapse>
                </Container>
@@ -40,7 +40,7 @@ export default function NavBar() {
                      Igniting minds, fostering excellence — a vibrant community where every student thrives
                      academically and personally.
                   </p>
-                  <a href="#">REGISTER</a>
+                  <a href="/">REGISTER</a>
                </section>
             </div>
          </div>
