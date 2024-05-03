@@ -1,4 +1,7 @@
 import React from 'react'
+import './All.css'
+
+
 
 export default function Student() {
   return (
@@ -18,7 +21,7 @@ export default function Student() {
 
             <section className="subSec" id="firstComment">
                <section className="imgSec">
-                  <image src="img/profile-1.jpg" alt="Student's Picture"/>
+                  <img src="img/profile-1.jpg" alt="Student'icture"/>
                </section>
 
                <section className="quoteSec">
@@ -42,7 +45,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <image src="img/profile-2.jpg" alt="Student's Picture"/>
+                  <img src="img/profile-2.jpg" alt="Stud"/>
                </section>
 
                <section className="quoteSec">
@@ -66,7 +69,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <image src="img/profile-3.jpg" alt="Student's Picture"/>
+                  <img src="/img/profile-3.jpg" alt="Pictue"/>
                </section>
 
                <section className="quoteSec">
@@ -90,7 +93,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <image src="img/profile-1.jpg" alt="Student's Picture"/>
+                  <img src="img/profile-1.jpg" alt="Student_Picture"/>
                </section>
 
                <section className="quoteSec">
@@ -114,7 +117,7 @@ export default function Student() {
 
             <section className="subSec">
                <section className="imgSec">
-                  <image src="img/profile-2.jpg" alt="Student's Picture"/>
+                  <img src="img/profile-3.jpg" alt="S"/>
                </section>
 
                <section className="quoteSec">
@@ -141,10 +144,10 @@ export default function Student() {
 
 
       <div className="scroll-container">
-         <image src="img/building-1.jpg" alt="Cinque Terre" width="600" height="400"/>
-         <image src="img/building-2.jpg" alt="Forest" width="600" height="400"/>
-         <image src="img/building-3.jpg" alt="Northern Lights" width="600" height="400"/>
-         <image src="img/overlay.jpg" alt="Mountains" width="600" height="400"/>
+         <img src="img/building-1.jpg" alt="Cinque " width="600" height="400"/>
+         <img src="img/building-2.jpg" alt="Fores" width="600" height="400"/>
+         <img src="img/building-3.jpg" alt="Northern " width="600" height="400"/>
+         <img src="img/overlay.jpg" alt="Mountain" width="600" height="400"/>
      </div>
 
   

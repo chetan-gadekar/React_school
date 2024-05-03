@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './All.css'
 export default function Campus() {
   return (
     <>
@@ -15,13 +15,13 @@ export default function Campus() {
 
          <section className="firstSec">
             <section className="imgSec" style={{university:'PUNE'}}>
-               <image src="img/building-1.jpg" alt="University building"/>
+               <img src="img/building-1.jpg" alt="University building"/>
             </section>
             <section className="imgSec" style={{university: 'NASHIK'}}>
-               <image src="img/building-2.jpg" alt="University building"/>
+               <img src="img/building-2.jpg" alt="University building"/>
             </section>
             <section className="imgSec" style={{university: 'KOPARGAON'}}>
-               <image src="img/building-3.jpg" alt="University building"/>
+               <img src="img/building-3.jpg" alt="University building"/>
             </section>
          </section>
       </div>
